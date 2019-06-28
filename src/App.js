@@ -51,7 +51,7 @@ export default function App() {
         >
           United States GDP 
         </h2>
-        <p className="text-center">Quaterly from 1948 to 2015</p>
+        <p className="text-center">Quaterly from 1947 to 2015</p>
         <ResponsiveContainer>
           <BarChart
             width={820}
@@ -69,7 +69,7 @@ export default function App() {
                 id="colorUv"
                 x1="0"
                 y1="0"
-                x2="0"
+                x2="1"
                 y2="1"
               >
                 <stop
