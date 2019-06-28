@@ -110,7 +110,7 @@ export default function App() {
             />
             <Tooltip
               separator=": "
-              formatter={(value) => `${value} $`}
+              formatter={(value) => `${value} Bn`}
               id="tooltip"
               wrapperStyle={{
                 width: 110,
@@ -120,7 +120,7 @@ export default function App() {
             />
             <Bar
               dataKey="1"
-              nameKey="$"
+              name="$"
               fill="url(#colorUv)"
             />
           </BarChart>
