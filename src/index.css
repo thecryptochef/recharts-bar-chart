@@ -1,0 +1,14 @@
+
+body {
+  margin-top:4.2rem;
+  height: 85vh;
+    background:linear-gradient(to bottom right,#111 12.5%,#434343 25%,#111 50%,#434343 75%,#111);
+  font-family: Old Standard TT, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #83d6f3
+}
+
+
