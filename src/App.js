@@ -113,7 +113,7 @@ export default function App() {
               formatter={(value) => `${value} Bn`}
               id="tooltip"
               wrapperStyle={{
-                width: 110,
+                width: 120,
                 color: '#000',
                 border: '1px solid #000'
               }}
